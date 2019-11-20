@@ -2,7 +2,7 @@
 
 ![Commity activity](https://img.shields.io/github/commit-activity/m/abnerfs/abner-pro-grammer-channel "") 
 ![languages](https://img.shields.io/github/languages/count/abnerfs/abner-pro-grammer-channel "") 
-![Top langauge](https://img.shields.io/github/languages/top/abnerfs/abner-pro-grammer-channel "") 
+![Top Language](https://img.shields.io/github/languages/top/abnerfs/abner-pro-grammer-channel "") 
 ![Issues](https://img.shields.io/github/issues/abnerfs/abner-pro-grammer-channel "") 
 ![Size](https://img.shields.io/github/repo-size/abnerfs/abner-pro-grammer-channel "") 
 
