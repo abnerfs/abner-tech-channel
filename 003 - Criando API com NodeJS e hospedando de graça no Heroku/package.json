@@ -1,0 +1,25 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abnerfs/api-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abnerfs/api-nodejs/issues"
+  },
+  "homepage": "https://github.com/abnerfs/api-nodejs#readme"
+}
