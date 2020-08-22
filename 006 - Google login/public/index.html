@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-signin-client_id"
-        content="51632153265-8gehsskl100erb2og20u14ft07qj9uad.apps.googleusercontent.com">
+        content="51632153265-lnpejt0fib7oeb6lr4pehho4q8k68pm1.apps.googleusercontent.com">
     <title>Document</title>
 </head>
 
@@ -25,16 +25,6 @@
             console.log('Image URL: ' + profile.getImageUrl());
             console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present.
             console.log(googleUser.getAuthResponse().id_token);
-
-            fetch('http://localhost:9092/values', {
-                headers: {
-                    'Authorization' : 'Bearer ' + token
-                }
-            })
-            .then(res => res.json())
-            .then((retorno) =>  {
-                alert(JSON.stringify(retorno, null, 2));
-            })
         }
     </script>
 
